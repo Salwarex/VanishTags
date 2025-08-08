@@ -1,0 +1,20 @@
+en:
+  no-permissions: "You don't have permission to do this!"
+  config-reloaded: "Config reloaded successfully!"
+  vtags-disabled: "Vanish tags is currently disabled on the server!"
+  change-mode-successfully: "Visibility of nicknames has been changed for %target% to %mode%"
+  mode-visible: "Visible"
+  mode-vanished: "Vanished"
+  you: "you"
+  unknown-command: "The provided command is not recognized"
+ru:
+  no-permissions: "У Вас нет прав, чтобы выполнить это!"
+  config-reloaded: "Конфиг успешно перезагружен!"
+  vtags-disabled: "Скрытие ников в настоящий момент отключено на сервере!"
+  change-mode-successfully: "Режим видимости ников для %target% на %mode%"
+  mode-visible: "Видимые"
+  mode-vanished: "Скрытые"
+  you: "Вас"
+  unknown-command: "Введенная команда не распознана!"
+
+version: 1

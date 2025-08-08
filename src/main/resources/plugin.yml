@@ -1,0 +1,11 @@
+name: VanishTags
+version: '1.0'
+main: ru.waxera.vanishtags.VanishTags
+api-version: '1.21'
+prefix: VanishTags
+authors: [ Salwarex ]
+description: A simple plugin that will hide the nicknames of the players and allow them to be displayed during various actions with it.
+website: waxera.ru
+commands:
+  vanishtags:
+    aliases: [vt, vtags]

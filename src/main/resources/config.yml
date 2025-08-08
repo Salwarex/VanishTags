@@ -1,0 +1,8 @@
+language: "en"
+vanish-tags: true
+display-tag:
+  type: ACTION_BAR #ACTION_BAR, TITLE, SUBTITLE
+  format: "&7< &6%nickname% &7>"
+  seconds: 2 #only for TITLE and SUBTITLE types
+
+version: 1
