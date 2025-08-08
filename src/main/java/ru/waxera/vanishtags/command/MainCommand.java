@@ -17,6 +17,9 @@ public class MainCommand extends AbstractCommand {
 
     @Override
     public void execute(CommandSender sender, String s, String[] args){
+
+        if(args.length == 0) return;
+
         if(args[0].equalsIgnoreCase("reload")){
             if(!sender.hasPermission("vtags.reload")){
                 sendPermissionWarn(sender);
